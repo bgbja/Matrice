@@ -22,15 +22,6 @@ Multiplication par un scalaire : multiplication de chaque élément par un nombr
 
 Le projet est organisé autour de deux fichiers principaux :
 
-text
-Matrice/
-│
-├── matrice.h       # Déclaration des classes et méthodes
-├── matrice.cpp     # Implémentation des fonctionnalités
-├── main.cpp        # Programme principal
-├── CMakeLists.txt  # Configuration de compilation
-└── README.md       # Documentation du projet
-
 🧮 Classes principales
 matrice
 
